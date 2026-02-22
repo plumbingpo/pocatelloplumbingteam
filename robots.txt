@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pocatelloplumbingteam.com/sitemap.xml
